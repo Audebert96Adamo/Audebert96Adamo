@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Audebert96Adamo
 
-- 🌱 I’m currently learning HTML / CSS and Javascript.
+- 🌱 I’m currently learning HTML / CSS / Javascript and PHP.
+
 - You can find 2 types of repository on my github : project and model 
 
 - Project : these are created by me and their purpose is to summarize all the knowledge that I've acquired until now.
