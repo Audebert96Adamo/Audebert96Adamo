@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adamo
 
-- 🌱 I’m currently learning HTML / CSS / Javascript and PHP.
+- 🌱 I’m currently learning Javascript and PHP AND PYTHON .
 
 - You can find 2 types of repository on my github : project and model 
 
