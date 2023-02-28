@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Audebert96Adamo
+- 👋 Hi, I’m Adamo
 
 - 🌱 I’m currently learning HTML / CSS / Javascript and PHP.
 
