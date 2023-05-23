@@ -1,12 +1,6 @@
 - 👋 Hi, I’m Adamo
 
-- 🌱 I’m currently learning Javascript and PHP AND PYTHON .
-
-- You can find 2 types of repository on my github : project and model 
-
-- Project : these are created by me and their purpose is to summarize all the knowledge that I've acquired until now.
-
-- Model : these are created by some content creator who shares on Youtube or Github their knowledges for example Fromscratch, I only follow their instructions and try to replicate their result with my own code 
+Welcome to my GitHub
 
 <!---
 Audebert96Adamo/Audebert96Adamo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
